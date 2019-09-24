@@ -1,0 +1,5 @@
+Hotel(1, Azusa Inn, 23 Main St., Azusa, CA, 159)
+Hotel(2, San Dimas Suits, 1456 Apollo Ave., San Dimas, CA, 129)
+Hotel(3, Covina Comfort, 211 Crestline St., Covina, CA, 109)
+Hotel(4, Hotel Glendorado, 394 W. Third St., Glendora, CA, 179)
+Hotel(5, Pasadena Place, 483 Florence St., Pasadena, CA, 249)
